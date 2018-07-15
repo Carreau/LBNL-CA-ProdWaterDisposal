@@ -1,0 +1,12 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - ipython
+  - pandas
+  - matplotlib
+  - pandas
+  - scipy
+  - basemap
