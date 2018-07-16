@@ -10,3 +10,4 @@ dependencies:
   - pandas
   - scipy
   - basemap
+  - basemap-data-hires
